@@ -1,3 +1,17 @@
-.table{
-  
+#names{
+  float: left;
+  width: 20%
+  border-collapse: collapse;
+
+}
+
+#categories{
+  float: right;
+  width: 75%;
+  border-collapse: collapse;
+}
+
+img{
+  width: 200px;
+  height: 55px;
 }
